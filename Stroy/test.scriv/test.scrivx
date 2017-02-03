@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="pq-PC" Modified="2017-02-03 15:54:14 +0800" ModID="F178AB3B-9EF3-47B2-A402-3D429D9E3111">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="pq-PC" Modified="2017-02-03 17:48:05 +0800" ModID="37AE1FCA-DFBE-4914-8241-C71EA69189E4">
     <Binder>
-        <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-26 04:48:19 +0800" Modified="2017-02-03 15:39:48 +0800" Type="Text">
-            <Title>Novel Format</Title>
+        <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-26 04:48:19 +0800" Modified="2017-02-03 17:40:51 +0800" Type="Text">
+            <Title>故事1</Title>
             <MetaData>
                 <LabelID>5</LabelID>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Information.png</IconFileName>
             </MetaData>
             <TextSettings>
-                <TextSelection>2012,0</TextSelection>
+                <TextSelection>19,0</TextSelection>
                 <Target Type="Words">0</Target>
             </TextSettings>
             <CorkboardAndOutliner>
@@ -17,6 +17,21 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="51" UUID="DFAEF0E5-11F5-46BF-8A0C-33D4D1427AB7" Created="2017-02-03 17:41:27 +0800" Modified="2017-02-03 17:41:27 +0800" Type="Text">
+            <Title>Character Sketch</Title>
+            <MetaData>
+                <LabelID>6</LabelID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>rtf</FileExtension>
+                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>130,0</TextSelection>
+                <Target Type="Words">0</Target>
+            </TextSettings>
         </BinderItem>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-05 00:27:29 +0800" Modified="2007-03-26 05:00:41 +0800" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -29,7 +44,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="4" UUID="9E980376-C6E3-48C2-9312-D7F0BE6F4AB2" Created="2006-11-05 00:31:13 +0800" Modified="2011-03-14 22:25:45 +0800" Type="Folder">
+                <BinderItem ID="4" UUID="9E980376-C6E3-48C2-9312-D7F0BE6F4AB2" Created="2006-11-05 00:31:13 +0800" Modified="2017-02-03 17:14:53 +0800" Type="Folder">
                     <Title>Chapter</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
@@ -93,6 +108,27 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="41" UUID="C89CB72D-F058-444A-A3B0-8D52A201137E" Created="2017-02-03 16:17:37 +0800" Modified="2017-02-03 16:17:55 +0800" Type="Text">
+                    <Title>企鹅</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="42" UUID="1368A720-8D35-4501-98F1-658279D18703" Created="2017-02-03 16:17:45 +0800" Modified="2017-02-03 16:17:45 +0800" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="29" UUID="AC80BE2D-A6AE-4FC8-9E92-60573A7AAECC" Created="2011-07-21 00:15:20 +0800" Modified="2011-07-21 00:15:23 +0800" Type="Folder">
             <Title>Front Matter</Title>
@@ -109,7 +145,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="14" UUID="B89C2FAA-06BD-433B-BA8B-6BADC30E64FB" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:32 +0800" Type="Folder">
+                <BinderItem ID="14" UUID="B89C2FAA-06BD-433B-BA8B-6BADC30E64FB" Created="2014-06-12 13:52:32 +0800" Modified="2017-02-03 16:18:18 +0800" Type="Folder">
                     <Title>Manuscript Format</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -132,12 +168,13 @@
                                 <CompileAsIs>Yes</CompileAsIs>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>116,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="13" UUID="00B4FA64-D705-4810-B3FB-C566AF858F74" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:32 +0800" Type="Folder">
+                <BinderItem ID="13" UUID="00B4FA64-D705-4810-B3FB-C566AF858F74" Created="2014-06-12 13:52:32 +0800" Modified="2017-02-03 16:18:20 +0800" Type="Folder">
                     <Title>Paperback Novel</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -151,7 +188,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="21" UUID="34EA4225-16B4-4E0F-AE80-F3AFE73EC465" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:32 +0800" Type="Text">
+                        <BinderItem ID="21" UUID="34EA4225-16B4-4E0F-AE80-F3AFE73EC465" Created="2014-06-12 13:52:32 +0800" Modified="2017-02-03 16:18:26 +0800" Type="Text">
                             <Title>Title Page</Title>
                             <MetaData>
                                 <StatusID>6</StatusID>
@@ -166,6 +203,17 @@
                                     <FreeformMode>Yes</FreeformMode>
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="45" UUID="494A2017-3AD0-4029-8EDE-E661AFA5EBF4" Created="2017-02-03 16:22:26 +0800" Modified="2017-02-03 16:22:26 +0800" Type="Text">
+                            <Title>Title Page-1</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
                         </BinderItem>
                         <BinderItem ID="19" UUID="0D541BA4-BCC5-4D30-9166-9837A8B7FD5B" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:32 +0800" Type="Text">
                             <Title>Copyright</Title>
@@ -198,6 +246,26 @@
                                     <FreeformMode>Yes</FreeformMode>
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="46" UUID="D737D3A1-CFA8-4CA5-9C68-44859583F6BC" Created="2017-02-03 17:21:47 +0800" Modified="2017-02-03 17:24:12 +0800" Type="Folder">
+                            <Title></Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="47" UUID="AF53F6CD-CD7E-43FD-B5FD-359E158AF9BB" Created="2017-02-03 17:21:58 +0800" Modified="2017-02-03 17:21:58 +0800" Type="Text">
+                                    <Title></Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -238,6 +306,7 @@
                                 <CompileAsIs>Yes</CompileAsIs>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>5,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -350,6 +419,7 @@
                         <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>50,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -386,6 +456,56 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="48" UUID="B6FAABE7-4553-4C0B-AAA5-D3D7608339AE" Created="2017-02-03 17:36:42 +0800" Modified="2017-02-03 17:36:42 +0800" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="49" UUID="5B1E41B1-42BC-4F20-88D9-EB7BB124F4B3" Created="2017-02-03 17:36:45 +0800" Modified="2017-02-03 17:36:45 +0800" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="50" UUID="67EE3870-EA4F-4BD7-839B-6014F5EE73DE" Created="2017-02-03 17:36:47 +0800" Modified="2017-02-03 17:36:47 +0800" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="43" UUID="89FE5F90-1752-4950-A95D-5895EE52C3F2" Created="2017-02-03 16:21:47 +0800" Modified="2017-02-03 16:21:47 +0800" Type="Folder">
+            <Title></Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="44" UUID="C5257665-D2B1-4AEA-B33D-68C5DFC117FB" Created="2017-02-03 16:21:55 +0800" Modified="2017-02-03 16:22:49 +0800" Type="Text">
+                    <Title>1321</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <LabelSettings>
