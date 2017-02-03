@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="pq-PC" Modified="2017-02-03 15:30:03 +0800" ModID="7BE1421C-9C40-4B4D-95F8-723CCC6138CD">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="pq-PC" Modified="2017-02-03 15:39:49 +0800" ModID="F178AB3B-9EF3-47B2-A402-3D429D9E3111">
     <Binder>
-        <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-26 04:48:19 +0800" Modified="2014-06-13 06:17:20 +0800" Type="Text">
+        <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-26 04:48:19 +0800" Modified="2017-02-03 15:39:48 +0800" Type="Text">
             <Title>Novel Format</Title>
             <MetaData>
                 <LabelID>5</LabelID>
@@ -9,7 +9,7 @@
                 <IconFileName>Information.png</IconFileName>
             </MetaData>
             <TextSettings>
-                <TextSelection>404,0</TextSelection>
+                <TextSelection>2012,0</TextSelection>
                 <Target Type="Words">0</Target>
             </TextSettings>
             <CorkboardAndOutliner>
@@ -417,7 +417,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-02-03 15:12:24 +0800"/>
+        <PreviousSession Words="0" Characters="0" Date="2017-02-03 15:39:44 +0800"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
